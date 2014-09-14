@@ -1,0 +1,19 @@
+{
+    "context": "client",
+    "identifier": "fr.pa.fr33lancer.TeamTeleporterColor",
+    "display_name": "Team Teleporter Color",
+    "description": "Changes the Teleporter Glowing Effects to your Team Color instead of blue",
+    "author": "Fr33lancer",
+    "version": "1.0.0",
+    "build": "71937",
+    "date": "2014/09/14",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/rel-team-commander-explosion-color-70289.62819/",
+	"icon": "http://i.imgur.com/FqfPQUX.gif",
+    "category": [
+	  "in-game",
+	  "shader"
+    ],
+    "priority": 100,
+    "enabled": true
+}
